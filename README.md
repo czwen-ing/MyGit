@@ -2,4 +2,4 @@
 i love android
 i am two
 nofastforward 11
-bug clear
+git stash
